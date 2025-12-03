@@ -181,7 +181,7 @@ Instead of blanket marketing, a business can act with precision.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Customer-Value-Maximization.git
+git clone [https://github.com/yourusername/Customer-Value-Maximization.git](https://github.com/hannanbaig347/customer-value-maximization-pipeline-with-segmentation)
 ```
 
 2. Navigate to the folder:
