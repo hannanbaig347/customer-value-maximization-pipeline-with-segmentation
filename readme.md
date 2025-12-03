@@ -18,6 +18,8 @@ It’s a practical tool designed to help businesses boost retention, increase re
 
 ---
 
+**[READ THE FULL REPORT (PDF)](/Report.pdf)**
+
 ## Objectives
 
 The project focused on three core goals:
@@ -50,6 +52,8 @@ The project focused on three core goals:
   - [Author](#author)
 
 ---
+
+
 
 ## The Business Problem — Why This Matters
 
