@@ -187,7 +187,7 @@ git clone [https://github.com/yourusername/Customer-Value-Maximization.git](http
 2. Navigate to the folder:
 
 ```bash
-cd Customer-Value-Maximization
+cd Notebooks
 ```
 
 3. Install the required packages:
